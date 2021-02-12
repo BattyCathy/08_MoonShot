@@ -14,6 +14,7 @@
 		B19125FA25D71CE8001CF6A2 /* _8_MoonShotTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19125F925D71CE8001CF6A2 /* _8_MoonShotTests.swift */; };
 		B191260525D71CE8001CF6A2 /* _8_MoonShotUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B191260425D71CE8001CF6A2 /* _8_MoonShotUITests.swift */; };
 		B191261725D71D8B001CF6A2 /* Project 8, Part One.swift in Sources */ = {isa = PBXBuildFile; fileRef = B191261625D71D8B001CF6A2 /* Project 8, Part One.swift */; };
+		B191261F25D73B10001CF6A2 /* 01. Moonshot- Introduction.swift in Sources */ = {isa = PBXBuildFile; fileRef = B191261E25D73B10001CF6A2 /* 01. Moonshot- Introduction.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		B191260425D71CE8001CF6A2 /* _8_MoonShotUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _8_MoonShotUITests.swift; sourceTree = "<group>"; };
 		B191260625D71CE8001CF6A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B191261625D71D8B001CF6A2 /* Project 8, Part One.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Project 8, Part One.swift"; sourceTree = "<group>"; };
+		B191261E25D73B10001CF6A2 /* 01. Moonshot- Introduction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "01. Moonshot- Introduction.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,6 +139,7 @@
 			isa = PBXGroup;
 			children = (
 				B191261625D71D8B001CF6A2 /* Project 8, Part One.swift */,
+				B191261E25D73B10001CF6A2 /* 01. Moonshot- Introduction.swift */,
 			);
 			path = "Day One Notes";
 			sourceTree = "<group>";
@@ -270,6 +273,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B191261F25D73B10001CF6A2 /* 01. Moonshot- Introduction.swift in Sources */,
 				B19125EA25D71CE5001CF6A2 /* ContentView.swift in Sources */,
 				B191261725D71D8B001CF6A2 /* Project 8, Part One.swift in Sources */,
 				B19125E825D71CE5001CF6A2 /* _8_MoonShotApp.swift in Sources */,
