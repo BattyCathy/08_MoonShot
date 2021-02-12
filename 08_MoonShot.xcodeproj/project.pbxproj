@@ -97,6 +97,7 @@
 			children = (
 				B19125E725D71CE5001CF6A2 /* _8_MoonShotApp.swift */,
 				B19125E925D71CE5001CF6A2 /* ContentView.swift */,
+				B191261525D71D3C001CF6A2 /* Notes */,
 				B19125EB25D71CE8001CF6A2 /* Assets.xcassets */,
 				B19125F025D71CE8001CF6A2 /* Info.plist */,
 				B19125ED25D71CE8001CF6A2 /* Preview Content */,
@@ -128,6 +129,13 @@
 				B191260625D71CE8001CF6A2 /* Info.plist */,
 			);
 			path = 08_MoonShotUITests;
+			sourceTree = "<group>";
+		};
+		B191261525D71D3C001CF6A2 /* Notes */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Notes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
