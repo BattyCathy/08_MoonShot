@@ -13,6 +13,7 @@
 		B19125EF25D71CE8001CF6A2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B19125EE25D71CE8001CF6A2 /* Preview Assets.xcassets */; };
 		B19125FA25D71CE8001CF6A2 /* _8_MoonShotTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19125F925D71CE8001CF6A2 /* _8_MoonShotTests.swift */; };
 		B191260525D71CE8001CF6A2 /* _8_MoonShotUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B191260425D71CE8001CF6A2 /* _8_MoonShotUITests.swift */; };
+		B191261725D71D8B001CF6A2 /* Project 8, Part One.swift in Sources */ = {isa = PBXBuildFile; fileRef = B191261625D71D8B001CF6A2 /* Project 8, Part One.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		B191260025D71CE8001CF6A2 /* 08_MoonShotUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 08_MoonShotUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B191260425D71CE8001CF6A2 /* _8_MoonShotUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _8_MoonShotUITests.swift; sourceTree = "<group>"; };
 		B191260625D71CE8001CF6A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B191261625D71D8B001CF6A2 /* Project 8, Part One.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Project 8, Part One.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,7 +99,7 @@
 			children = (
 				B19125E725D71CE5001CF6A2 /* _8_MoonShotApp.swift */,
 				B19125E925D71CE5001CF6A2 /* ContentView.swift */,
-				B191261525D71D3C001CF6A2 /* Notes */,
+				B191261525D71D3C001CF6A2 /* Day One Notes */,
 				B19125EB25D71CE8001CF6A2 /* Assets.xcassets */,
 				B19125F025D71CE8001CF6A2 /* Info.plist */,
 				B19125ED25D71CE8001CF6A2 /* Preview Content */,
@@ -131,11 +133,12 @@
 			path = 08_MoonShotUITests;
 			sourceTree = "<group>";
 		};
-		B191261525D71D3C001CF6A2 /* Notes */ = {
+		B191261525D71D3C001CF6A2 /* Day One Notes */ = {
 			isa = PBXGroup;
 			children = (
+				B191261625D71D8B001CF6A2 /* Project 8, Part One.swift */,
 			);
-			path = Notes;
+			path = "Day One Notes";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -268,6 +271,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B19125EA25D71CE5001CF6A2 /* ContentView.swift in Sources */,
+				B191261725D71D8B001CF6A2 /* Project 8, Part One.swift in Sources */,
 				B19125E825D71CE5001CF6A2 /* _8_MoonShotApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
