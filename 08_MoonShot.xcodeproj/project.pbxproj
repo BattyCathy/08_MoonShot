@@ -15,6 +15,7 @@
 		B191260525D71CE8001CF6A2 /* _8_MoonShotUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B191260425D71CE8001CF6A2 /* _8_MoonShotUITests.swift */; };
 		B191261725D71D8B001CF6A2 /* Project 8, Part One.swift in Sources */ = {isa = PBXBuildFile; fileRef = B191261625D71D8B001CF6A2 /* Project 8, Part One.swift */; };
 		B191261F25D73B10001CF6A2 /* 01. Moonshot- Introduction.swift in Sources */ = {isa = PBXBuildFile; fileRef = B191261E25D73B10001CF6A2 /* 01. Moonshot- Introduction.swift */; };
+		B191262425D73D8D001CF6A2 /* 02. Resizing Images to Fit the Screen using GeometryReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = B191262325D73D8D001CF6A2 /* 02. Resizing Images to Fit the Screen using GeometryReader.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		B191260625D71CE8001CF6A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B191261625D71D8B001CF6A2 /* Project 8, Part One.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Project 8, Part One.swift"; sourceTree = "<group>"; };
 		B191261E25D73B10001CF6A2 /* 01. Moonshot- Introduction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "01. Moonshot- Introduction.swift"; sourceTree = "<group>"; };
+		B191262325D73D8D001CF6A2 /* 02. Resizing Images to Fit the Screen using GeometryReader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "02. Resizing Images to Fit the Screen using GeometryReader.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,6 +142,7 @@
 			children = (
 				B191261625D71D8B001CF6A2 /* Project 8, Part One.swift */,
 				B191261E25D73B10001CF6A2 /* 01. Moonshot- Introduction.swift */,
+				B191262325D73D8D001CF6A2 /* 02. Resizing Images to Fit the Screen using GeometryReader.swift */,
 			);
 			path = "Day One Notes";
 			sourceTree = "<group>";
@@ -274,6 +277,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B191261F25D73B10001CF6A2 /* 01. Moonshot- Introduction.swift in Sources */,
+				B191262425D73D8D001CF6A2 /* 02. Resizing Images to Fit the Screen using GeometryReader.swift in Sources */,
 				B19125EA25D71CE5001CF6A2 /* ContentView.swift in Sources */,
 				B191261725D71D8B001CF6A2 /* Project 8, Part One.swift in Sources */,
 				B19125E825D71CE5001CF6A2 /* _8_MoonShotApp.swift in Sources */,
